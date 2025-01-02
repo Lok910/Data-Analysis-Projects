@@ -1,0 +1,14 @@
+# For data manipulation
+numpy
+pandas
+
+# For data visualization
+matplotlib
+seaborn
+
+# For data modeling
+xgboost
+scikit-learn
+
+# For saving models
+pickle-mixin
