@@ -21,4 +21,4 @@ The dataset contains the following variables:
 
 ## Objective
 
-The primary objective of this project is to explore the factors that contribute to employee retention. By performing EDA, we will investigate which variables have a significant impact on employee retention (whether an employee leaves the company or stays). Additionally, we will create visualizations to display these relationships and build a logistic regression model to predict whether an e
+The primary objective of this project is to explore the factors that contribute to employee retention. By performing EDA, we will investigate which variables have a significant impact on employee retention (whether an employee leaves the company or stays). Additionally, we will create visualizations to display these relationships and build a logistic regression model to predict whether an employee leaves or stay at the company.
